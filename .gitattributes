@@ -1,0 +1,5 @@
+conf.tar.gz filter=lfs diff=lfs merge=lfs -text
+demo_ICIMOD_2015_train_2-0000000000-0000008960.tif filter=lfs diff=lfs merge=lfs -text
+mask_metadata.csv filter=lfs diff=lfs merge=lfs -text
+shp.tar.gz filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
